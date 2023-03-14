@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @huiion
 - 👀 I’m interested in shell
-- 🌱 I’m currently learning java and shell
-- 💞️ I’m looking to collaborate on shell
 - 📫 How to reach me josn1985@163.com
 
 <!---
